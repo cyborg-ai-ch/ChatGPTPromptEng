@@ -5,8 +5,8 @@ https://learn.deeplearning.ai/chatgpt-prompt-eng/
 Greate Course by:Isa Fulford, Andrew Ng, and Laurence Moroney 
 
 Course structure:
-Iterative
-Summarizing / extraction
-Inferring / read news and alert on categories
+Iterative (develop a prompt) 
+Summarizing / extraction (read content and summarize, extract)
+Inferring (read news and alert on keywords)
 Transforming text (translation, rephrasing, etc.)
-Expanding / reviewing --> create an answer email
+Expanding (reviewing --> create an answer email)
